@@ -1,0 +1,19 @@
+h2 {
+    text-align: center;
+}
+
+#container {
+    margin-top: 10vw;
+    display: flex;
+    justify-content: center;
+}
+
+#dice img {
+    width: 300px;
+    height: auto;
+}
+
+#rollNumber {
+font-size: 24px;
+text-align: center;
+}
